@@ -1,0 +1,13 @@
+.points-image{
+  width: 250px;
+  height: 200px;
+  
+  border: 2px black solid;
+  
+}
+
+.plan-image{
+  width: 250px;
+  height: 300px;
+  border: 2px black solid;
+}

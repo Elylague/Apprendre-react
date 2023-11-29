@@ -1,0 +1,26 @@
+.title-home{
+  text-align: center;
+  
+  color: steelblue;
+}
+
+
+
+.images{
+  
+  width: 300px;
+}
+
+
+
+
+/*
+.container-images{
+  display: grid;
+  grid-template-column: 0.5fr 0.5fr 0.5fr;
+  grid-template-columns: 0.5fr 0.5fr 0.5fr;
+
+  
+  
+}
+*/

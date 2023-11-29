@@ -1,0 +1,30 @@
+
+.aside nav{
+
+}
+
+.aside nav ul{
+
+padding-left: 0;
+margin:10px;
+}
+
+
+.aside nav ul li a {
+  display: block;
+  box-sizing: border-box;
+  text-decoration: none;
+  padding: 10px;
+  width: 100%
+  
+}
+
+
+.aside nav ul li{
+  
+  list-style-type: none;
+  background-color: white;
+  margin: 2px;
+  
+}
+

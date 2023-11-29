@@ -1,0 +1,161 @@
+   [
+     {
+       "PHYSIQUES": [
+         {
+           "physNS4": ["Condensateur", "Magnetisme", "Alternatif"],
+           "condNS4": ["Définition condensateur", "Types de condensateur", "capacité d'un condensateur", "condensateur en parallèles", "condensateur en serie", " Serie parallele", "La bouteille de Leyde"],
+           "magnNS4": ["Champ magnetisme", "Type de bobine", "Induction magnetisme", "Bobine plane", "Bobine torique", "Flux magnetisme"],
+           "alteNS4": ["Courant alternatif", "Impedance", "Inductance", "Capacitance", "Reluctance", "Circuit R-C", "Circuit L-C", "Circuit R-L-C", "Diagramme de Fresnel", "Frequence", "Periode", "Tension éficace", "Intensité éfficace"]
+        },
+         {
+           "physNS3": ["Electricité", "Optique"],
+           "optiNS3": ["Propagation de la lumière","Reflexion de la lumière","Refraction de la lumière","Dioptre plan","les lames à faces paralleles","Prisme","Lentilles spheriques minces","les lentilles convergentes","les Lentilles divergentes","convergence ou vergence d'une lentille"]
+        },
+         {
+           "physNS2":["mecanique","chaleur","Optique"],
+           "mecaNS2": ["cinématique","Notion de force et poid d'un corps"],
+           "chalNS2":["la temperature et les thermometres","Dilatation des solides","dilatation des liquides","pression et volume","Dilatation des gaz","masse volumique et densité d'un gaz","calorimetrie","fusion et solidification","vaporisation et liquefaction"],
+           "optiNS2":["Propagation de la lumière","Reflexion de la lumière","Refraction de la lumière","Dioptre plan","les lames à faces paralleles","Prisme"]
+        },
+         {
+           "physNS1": ["matière", "Forces et Mouvements", "moment d'une force","moment d’un couple de forces","mecanique des fluides", "Electricité", "Optique"],
+           "matiNS1":["les États de la matière","Quantité de matière","Masse volumique","Densité","les Atomes","Les molécules"],
+           "forcNS1":["Mouvement","Vitesse","Accélérations","Relativité du mouvement","Repère","Forces", "poids et masse", "représentation graphique","Equilibre d’un corps soumis à deux ou trois forces","Equilibre d’un corps mobile autour d’un axe Balance", "poulie", "treuil", "Leviers", "plan incliné","Pression exercée par une force "],
+           "momeNS1":["moment d'une force","moment d’un couple de forces"],
+           "mecaNS1":["Forces pressantes dans un liquide","Principe fondamental de l’hydrostatique","Flottaison"],
+           "elecNS1":["Description microscopique de l’électrisation","conducteurs et isolants","Courant électrique", "Résistances électriques (dipôles)","diodes","Notion de tension","Le courant alternatif","Etude d’une installation électrique domestique","Rôle et protection des appareils","court-circuit"," mesure de sécurité"],
+           "optiNS1":["Sources de lumière primaires et secondaires et Propagation rectiligne de la lumière","Milieux de propagation et faisceaux lumineux","Réflexion – Miroir plan","Réfraction – Lentilles"]
+        },
+         {
+           "phys9ème":["sciences physiques","électricité","sons"],
+           "scie9ème": ["Notion de Force", "Notion de travail et de puissance", "Machines simples","Energie et ses transformations","Notion de pression", "les leviers", "Electricité", "le son"],
+           "elec9ème":["Description microscopique de l’électrisation","conducteurs et isolants","courant électrique"],
+           "sons":["types de son","vibration","mesure"]
+        },
+      
+        {
+          "phys8ème": ["sciences physiques", "optique"],
+          "scie8ème": ["les melanges", "les eaux naturels", "Combutions", "forces", "mouvements d'un solide"],
+          "opti8ème": ["sources de la lumière", "reflexion de la lumière", "propagation de la lumière"]
+        },
+        {
+          "phys7ème": ["sciences physiques", "électricité"],
+          "scie7ème": ["science phyiques - genéralités", "Etats de la matière", "propriétés physiques de la matière","chaleur et temperature","mode de propagation de la chaleur","dilatation thermique et application","changements d'états","causes - effets et usages de la chaleur"],
+          "elec7ème": ["eléctricité","générateur","courant electrique","tension electrique"]
+        },
+         {
+           "Niveaux": ["9ème", "NSI", "NSII", "NSIII", "NSIV"]
+        }
+        ]
+        },
+     {
+       "MATHEMATIQUES": [
+         {
+           "mathNS4": ["Suite numerique", "Analyse linéaire", "Algèbre", "Géométrie", "Nombre complexe", "Probabilité"],
+           "suitNS4": ["Nature d'une suite", "representation graphique", "Suite Arithmétique", "Suite géometrique", "Limite d'une suite", "EXERCICES"],
+           "analNS4": ["Corps des nombres réels", "Partie entière", "Domaine de définition", "Continuité et la derivabilité", "Bijection reciproque d'une fonction", "Fonction logarithme", "Fonction Exponentielle", "Primitive d'une fontion", "Intégration", "Représentation graphique d'une fonction", "EXERCICES"],
+           "algèNS4": ["Sous-espace vectoriel", "Application linéaire", "Projection et symétrie vectorielle", "Relation entre symétrie et projection vectorielle", "EXERCICES"],
+           "géomNS4": ["Espace affine", "Barycentre", "Points et système de points pondérés", "Fonction vectorielle de Leibniz", "Fonction scalaire de Leibniz", "Application affine", "Espaces vectoriels euclidiens"],
+           "nombNS4": ["Nombres complexes", "Formes des nombres complexes", "Opération dans C", "Plan complexe", "Module d'un nombre complexe", "Argument d'un nombre complexe", "Forme trigonométrique", "forme Exponentielle", "Forme polaire", "Linéarisation d'un polynôme", "Racines carrées d'un nombre complexe", "Racine Nème", "Equation dans C", "Similitude"],
+           "probNS4": ["Rappels denombrement", "Calculs de probabilité", "Probabilité conditionnelle", "Loi de probavilité", "Variable aléatoires", "Fonction de repartition", "Espérance mathématique", "variance", "Ecart-type", "Epreuve de Bernoulli"]
+                },
+         {
+           "mathNS3": ["Algèbre", "Geométrie analytique", "Trigonométrie", "Suite numerique", "Combinatoire", "Analyse linéaire"],
+           "suitNS3": ["Nature d'une suite", "representation graphique", "Suite Arithmétique", "Suite géometrique", "Limite d'une suite", "EXERCICES"],
+           "analNS3": ["Fonction", "Domaine de définition", "Opération sur les fonctions", "Application", "Limite d'une fonction", "Continuité d'une fontion", "Dérivé d'une fonction", "Dérivabilité", "Parité", "Tracé d'une fonction"],
+           "geomNS3": ["vecteurs du plan", "coordonnées d'un vecteur", "produit scalaire", "Norme", "representation paramétrique d'une droite", "représentation paramétrique d'un plan ", "Equation cartésienne d'une droite", "positions relatives de droites", "positions relatives de plans", "positions relatives d'une droite et d'un plan", "distance de deux points", "distance d'un point et une droite", "cercles"],
+           "algèNS3": ["Ensemble des nombres(Rappels)", "Les espaces vectoriels", "Loi de compositions internes", "Loi de compositions externes", "Combinaisons linéaires des vecteurs", "Applications", "familles génératrice", "Indépendance linéaire des vecteurs", "Famille libre", "Dépendance linéaire des vecteurs", "Famille liée", "Base d'un espace vectoriel", "Dimension d'un espace vectoriel", "Base canonique du plan vectoriel", "Changement de base dans le plan"],
+           "trigNS3": ["Définition", "Mesure des arcs de cercle", "Passage de système de mesure à une autre", "Cercle trigonométrique", "Fonctions circulaires", "Relations entre les fonctions circulaires d'une même angle", "Valeurs remarquables", "des fonctions circulaires des arcs de 0 à 2PI", "Formules d'addition", "Formules de multiplication", "Arcs associés", "Arcs opposés", "Arcs supplémentaires", "Arcs complémmentaires", "Arcs dont la difference est PI ou arcs diamétraux", "Arcs dont la différence est PI/2", "Applications aux triangles rectangles", "Équations trigonométriques", "resolution de l'équation : cosx=a", "Résolution de l'équation sinx=b", "Résolution de l'équation tgx=c", "Résolution de l'équation cosx=cosy", "Résolution de l'équation Sinx=Siny"],
+           "combNS3": ["Théorie des ensembles", "Principe fondamental de l'analyse combinatoire", "Factorielle d'un nombre entier", "Calcul sur Arrangement", "Calcul sur combinaison", "Permutation", "Tirage", "Tirage-Jeux de carte"]
+                },
+         {
+           "mathNS1": ["Algèbre", "Geométrie", "Trigonométrie"],
+           "algèNS1": ["Calcul numérique", "Ensemble de nombre", "Calcul algebrique", "Fractions rationnelles", "Racines carrées", "Equation", "Inéquations", "Equation du 1er degré à deux inconnues", "système d'équation du 1er degré à deux inconnues", "Fonctions-Applications", "Equations du second degré"],
+           "geomNS1": ["Droites et distances", "Théoreme de Thalès", "Reciproque du théorème de Thalès", "Géométrie analytique", "Equation de droite"],
+           "trigNS1": ["triangles rectangles (Rappels)", "coté opposé à un angle donné", "coté adjacent à un angle donné", "Cosinus d'un angle aigu", "Sinus d'un aigu", "Tangente", "Calcul de la mesure d'un angle", "Calcul de longueurs(coté-hauteur)", "Pente d'une route", "Valeurs particulières de cosinus, sinus et tangente", "Relations trigonométriques", "Cas d'un angle obtus"]
+                },
+         {
+           "mathNS2": ["Trigonométrie", "Geométrie", "Algèbre", "Analyse linéaire"],
+           "trigNS2": ["Définition", "Mesure des arcs de cercle", "Passage de système de mesure à une autre", "Cercle trigonométrique", "Fonctions circulaires", "Relations entre les fonctions circulaires d'une même angle", "Valeurs remarquables", "des fonctions circulaires des arcs de 0 à 2PI", "Formules d'addition", "Formules de multiplication", "Arcs associés", "Arcs opposés", "Arcs supplémentaires", "Arcs complémmentaires", "Arcs dont la difference est PI ou arcs diamétraux", "Arcs dont la différence est PI/2", "Applications aux triangles rectangles", "Équations trigonométriques", "resolution de l'équation : cosx=a", "Résolution de l'équation sinx=b", "Résolution de l'équation tgx=c"],
+           "algèNS2": ["Système linéaire du 1er degré à deux inconnues", "Système linéaire du 1er degré à 3 inconnues", "Structure algébrique", "Espace vectoriel", "Combinaison linéaire", "Sous-Espace vectoriel", "Aplication linéaires"],
+           "geomNS2": ["repère cartesien d'un espace affine", "Equations des droites", "Applications dans le plan", "Produit scalaire et Norme", "Cercle"],
+           "analNS2": ["Logiques des propositions", "Calcul dans |R", "Equation dans R", "Ordre dans R", "Fonctions numéques", "Etudes des fonctions numéques"]
+               },
+         {
+           "math7ème": ["Algèbre","Geométrie", "Mesures", "Applications Mathématiques"],
+           "algè7ème": ["les ensembles", "nombres naturels", "decimaux", "les relatifs", "fractions"],
+           "geom7ème":["droites et plan","mediatrice et milieu d'in segment","secteur angulaire","cercle et disque","les polygones","reperage sur quadrillage","transformations et projections","solides"],
+           "mesu7ème":["unités de mesures","mesures d'arc et d'angle"],
+           "appl7ème":["propositions","statistique élémentaire","mathématiques financières"]
+        },
+        {
+          "math8ème": ["Algèbre", "Geométrie", "Mesures", "Applications Mathématiques"],
+          "alge8eme": ["les ensembles", "nombres naturels", "decimaux", "les relatifs", "fractions"],
+          "geom8eme": ["droites et plan", "mediatrice et milieu d'un segment", "cercle et disque", "les polygones", "repérage sur quadrillage", "transformations et projections", "solides"],
+          "mesu8eme": ["unités de mesures","mesures d'arc et d'angle"],
+          "appl8eme": ["propositions", "statistique élémentaire", "mathématiques financières"]
+        },
+        {
+          "math9ème": ["Algèbre", "Geométrie", "Mesures", "Applications Mathématiques"],
+          "alge9eme": ["les ensembles", "nombres naturels", "decimaux", "les relatifs", "fractions"],
+          "geom9eme": ["droites et plan", "mediatrice et milieu d'in segment", "secteur angulaire", "cercle et disque", "les polygones", "reperage sur quadrillage", "transformations et projections", "solides","thalès et pytagore"],
+          "mesu9eme": ["unités de mesures","mesure d'arc et d'angle"],
+          "appl9eme": ["propositions", "statistique élémentaire", "denombrement","mathématiques financières"]
+        }
+         
+            ]
+        },
+     {
+       "CHIMIE": [
+         {
+           "chimNS4":["organique"],
+           "orgaNS4": ["Introduction en chimie organique", "Liaisons chimiques", "propriétés de l'atome de carbone", "hydrocarbure", "fonction chimiques", "Isomerie", "réactions en chimie organique", "méthane", "Éthène ou Éthylène", "Acetylène", "Benzène", "Fonction Alcool", "Ethanol", "Ethanal et Acétone", "Ester ou Ether-Sel", "glucose", "Analyse Élémentaire qualitative"]
+         },
+         {
+           "chimNS3":["minérale"],
+           "minéNS3": ["Ntion de valence", "Fonction Acide", "Fonction basique", "La fonction sel", "Règle de Berthollet", "Oxydation et Reduction", "Nombre d'oxydation ou degré d'oxydation", "Oxydants et reducteurs", "Généralités sur les méteaux", "Propriétés mécaniques des méteaux", "Propriétés chimiques genérales des méteaux", "méthodes usuelles de la métallurgie", "l'aluminium", "Etat naturel et métallurgie de l'aluminium", "L'alumine", "Le cuivre", "Etat naturel et metallurgie du cuivre", "Le sulfate de cuivre", "Etude de quelques électrolyses", "EXERCICES PROPOSÉS"]
+           },
+         {
+           "chimNS2": ["Introduction en chimie Minérale", "Structure de l'atome", "Classifictions periodiques des éléments", "Valences", "Ions", "Nomenclature", "Reactions chimiques", "Initations aux problèmes de chimie", "Equilibre chimique:lois des gaz parfaits", "Liaisons chimiques", "Nombre d'oxydations", "Etude du gaz carbonique", "Chimie des solutions", "Etude de l'acide chloridrique", "Fonctions acides", "Fonctions basiques", "Sels"]
+
+              },
+         {
+           "chimNSI": ["Classifictions periodiques des éléments", "Quantité de matières  ", "Réactions chimiques", "Réctions des materiaux avec dioxygène", "Réactions acides", "Réactions basiques", "Materiaux conducteurs"]
+
+          },
+          {
+            "chimNS1":["introduction à la chimie","matière et énergie","corps purs et melanges","propriétés de la matière","notion de mesure","Transformation de la matière : réaction chimique","Réactivité chimique des materiaux","constitution de l'atome"],
+            "intrNS1":["Histoire de la chimie ","définition et subdivision de la chimie","Importance de la chimie","démarche scientifique"],
+            "matiNS1":["L’énergie et ses différentes formes","Matière :  sa structure et ses états physiques","Changements d’état physique de la matière"],
+            "caraNS1":["Caractéristiques physiques des corps purs","Caractéristiques physiques des mélanges","Méthodes physiques de séparation des constituants d’un mélange"],
+            "propNS1":["propriétés physiques de la matière","propriétés chimiques de la matière","Propriétés nucléaires de la matière"],
+            "notiNS1":["Unités de mesure","Instruments de mesures"],
+            "tranNS1":["Présentation de la transformation chimique (réaction chimique)","Equations chimiques","Calculs stœchiométriques"],
+            "reacNS1":["Réactivité chimique des matériaux métalliques avec l’air et les acides","Réactivité chimiques des matériaux non métalliques avec l’air et les acides","Réactivité des sels avec les acides et les bases"],
+            "consNS1":["Théorie atomique","composition de l'atome","Numéros atomiques et isotopes des éléments"]
+          }
+
+            ],
+        "ESPANOL":[
+          {
+            "espa7eme":["orale: compréhension et production orale","écrite: compréhension écrite"],
+            "oral7eme":["actes sociaux","informations factuelles","actes incitatives","attitudes affectives","attitudes intellectuelles"],
+            "écri7eme":["écrit-support de l'oral","texte de synthese","textes fonctionnelles"]
+          },
+          {
+            "espa8eme": ["orale: compréhension et production orale", "écrite: compréhension écrite"],
+            "oral8eme": ["actes sociaux", "informations factuelles", "actes incitatives", "attitudes affectives", "attitudes intellectuelles"],
+            "écri8eme": ["écrit-support de l'oral", "texte de synthese", "textes fonctionnelles"]
+          },
+          {
+            "espa9eme": ["orale: compréhension et production orale", "écrite: compréhension écrite"],
+            "oral9eme": ["actes sociaux", "informations factuelles", "actes incitatives", "attitudes affectives", "attitudes intellectuelles"],
+            "écri9eme": ["écrit-support de l'oral", "texte de synthese", "textes fonctionnelles","production écrite"]
+            
+           }
+          
+          
+          
+          ]
+        }
+      ]

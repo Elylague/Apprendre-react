@@ -1,0 +1,26 @@
+.div-page-cours{
+  
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 0.3fr 1fr;
+  background-color: salmon;
+  height: 100%;
+
+  
+}
+
+/*
+.aside nav ul li{
+  list-style-type: none;
+}
+*/
+
+.content-page-cours{
+  padding: 10px;
+}
+
+p::selection{
+  color: white;
+  background-color: seagreen;
+  
+}

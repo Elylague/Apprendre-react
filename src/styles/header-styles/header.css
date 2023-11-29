@@ -1,0 +1,39 @@
+.header{
+  background: linear-gradient(45deg,red,blue, yellow,green);
+  height: 200px;
+  
+  
+
+}
+
+
+.nav-menu{
+  background-color:darkblue;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+ .nav-menu .logo a{
+   color: white;
+   
+ }
+.ul-header li a{
+  color: inherit;
+}
+
+.ul-header{
+  margin: 0;
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  /*justify-content:flex-end;*/
+  gap: 20px;
+  
+  
+}
+
+.menu{
+  margin: 4px;
+}
