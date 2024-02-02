@@ -1,5 +1,6 @@
 const webpack = require('webpack');
 const path = require('path');
+const htmlWebpackPlugin=require('html-webpack-plugin')
 //console.log(process.env, 'PROCESS.ENV')
 
 const config = {
@@ -13,6 +14,16 @@ const config = {
     assetModuleFilename:'[name][ext]', 
     clean:true
   },
+  
+  plugins:[
+    new htmlWebpackPlugin({
+      title:'lekòl lakay', 
+      filename:'index.html', 
+      template:'src/template.html'
+      
+    })
+    
+    ], 
  devtool: 'inline-source-map', 
   module: {
     rules: [
@@ -58,9 +69,9 @@ const config = {
     ]
   },
   devServer: {
-    port: 9950,
+  //  port: 9950,
     static: {
-      directory: './dist'
+      directory:path.join(__dirname,  'dist')
     }
   }
 };
